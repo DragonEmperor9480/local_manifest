@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+      
+    	<project path="device/realme/spartan" name="DragonEmperor9480/device_realme_spartan.git" remote="github" revision="octavi-13" />
+	
+</manifest>
